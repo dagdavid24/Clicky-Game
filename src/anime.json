@@ -1,74 +1,62 @@
 [
     {
-        "id": "bulldog",
-        "image": "https://dog.ceo/api/img/bulldog-boston/n02096585_1737.jpg"
+        "id": 1,
+        "image": "https://vignette.wikia.nocookie.net/dragonball/images/5/5b/Gokusteppingoutofaspaceship.jpg/revision/latest/window-crop/width/130/x-offset/0/y-offset/11/window-width/391/window-height/346?cb=20150325220848",
+        "count": 0
     },
     {
-        "id": "beagle",
-        "image": "https://dog.ceo/api/img/beagle/n02088364_13050.jpg"
+        "id": 2,
+        "image": "https://vignette.wikia.nocookie.net/dragonball/images/3/33/Jiren1.png/revision/latest/window-crop/width/130/x-offset/0/y-offset/12/window-width/972/window-height/860?cb=20170723224647",
+        "count": 0
     },
     {
-        "id": "husky",
-        "image": "https://dog.ceo/api/img/husky/n02110185_14523.jpg"
+        "id": 3,
+        "image": "https://vignette.wikia.nocookie.net/dragonball/images/8/83/Frieza_DBZ_Ep_85_002v2.png/revision/latest/window-crop/width/130/x-offset/0/y-offset/15/window-width/634/window-height/561?cb=20170920193805",
+        "count": 0
     },
     {
-        "id": "maltese",
-        "image": "https://dog.ceo/api/img/maltese/n02085936_10197.jpg"
+        "id": 4,
+        "image": "https://vignette.wikia.nocookie.net/dragonball/images/2/25/Vegeta_DBZ_Ep_222_002.png/revision/latest/window-crop/width/130/x-offset/0/y-offset/20/window-width/656/window-height/580?cb=20170921025547",
+        "count": 0
     },
     {
-        "id": "pomeranian",
-        "image": "https://dog.ceo/api/img/pomeranian/n02112018_13636.jpg"
+        "id": 5,
+        "image": "https://images.wikia.nocookie.net/__cb20170621101134/naruto/images/thumb/0/09/Naruto_newshot.png/130px-113%2C1330%2C0%2C1076-Naruto_newshot.png",
+        "count": 0
     },
     {
-        "id": "poodle",
-        "image": "https://dog.ceo/api/img/poodle-miniature/n02113712_1088.jpg"
+        "id": 6,
+        "image": "https://images.wikia.nocookie.net/__cb20170628120149/naruto/images/thumb/2/27/Kakashi_Hatake.png/130px-113%2C1330%2C0%2C1076-Kakashi_Hatake.png",
+        "count": 0
     },
     {
-        "id": "pyrenees",
-        "image": "https://dog.ceo/api/img/pyrenees/n02111500_395.jpg"
+        "id": 7,
+        "image": "https://images.wikia.nocookie.net/__cb20170716092103/naruto/images/thumb/2/21/Sasuke_Part_1.png/130px-111%2C1242%2C0%2C1000-Sasuke_Part_1.png",
+        "count": 0
     },
     {
-        "id": "chihuahua",
-        "image": "https://dog.ceo/api/img/chihuahua/n02085620_3409.jpg"
+        "id": 8,
+        "image": "https://images.wikia.nocookie.net/__cb20160115141947/naruto/images/thumb/0/0c/Madara_img2.png/130px-111%2C1333%2C0%2C1080-Madara_img2.png",
+        "count": 0
     },
     {
-        "id": "boxer",
-        "image": "https://dog.ceo/api/img/boxer/n02108089_11687.jpg"
+        "id": 9,
+        "image": "https://vignette.wikia.nocookie.net/champloo/images/3/3c/Mugen.jpg/revision/latest/window-crop/width/130/x-offset/129/y-offset/0/window-width/449/window-height/396?cb=20120619031006",
+        "count": 0
     },
     {
-        "id": "husky",
-        "image": "https://dog.ceo/api/img/husky/n02110185_14523.jpg"
+        "id": 10,
+        "image": "https://vignette.wikia.nocookie.net/champloo/images/b/ba/Fuu.jpg/revision/latest/window-crop/width/130/x-offset/118/y-offset/0/window-width/408/window-height/360?cb=20120621040931",
+        "count": 0
     },
     {
-        "id": "maltese",
-        "image": "https://dog.ceo/api/img/maltese/n02085936_10197.jpg"
+        "id": 11,
+        "image": "https://vignette.wikia.nocookie.net/champloo/images/e/ec/Jin.jpg/revision/latest/window-crop/width/130/x-offset/129/y-offset/0/window-width/449/window-height/396?cb=20120619045500",
+        "count": 0
     },
     {
-        "id": "pomeranian",
-        "image": "https://dog.ceo/api/img/pomeranian/n02112018_13636.jpg"
-    },
-    {
-        "id": "poodle",
-        "image": "https://dog.ceo/api/img/poodle-miniature/n02113712_1088.jpg"
-    },
-    {
-        "id": "pyrenees",
-        "image": "https://dog.ceo/api/img/pyrenees/n02111500_395.jpg"
-    },
-    {
-        "id": "chihuahua",
-        "image": "https://dog.ceo/api/img/chihuahua/n02085620_3409.jpg"
-    },
-    {
-        "id": "pyrenees",
-        "image": "https://dog.ceo/api/img/pyrenees/n02111500_395.jpg"
-    },
-    {
-        "id": "chihuahua",
-        "image": "https://dog.ceo/api/img/chihuahua/n02085620_3409.jpg"
-    },
-    {
-        "id": "boxer",
-        "image": "https://dog.ceo/api/img/boxer/n02108089_11687.jpg"
+        "id": 12,
+        "image": "https://vignette.wikia.nocookie.net/champloo/images/9/99/Kariya_Kagetoki.jpg/revision/latest/window-crop/width/130/x-offset/0/y-offset/3/window-width/168/window-height/149?cb=20140630010218",
+        "count": 0
     }
 ]

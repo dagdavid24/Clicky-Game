@@ -15,7 +15,7 @@ const Nav = (props) => {
                 </div>
                 <div className="navbar-text">
                     Score: <span className="score">{props.score}</span> | 
-                    Top Score:<span className="topScore">{props.topScore}</span>
+                    Top Score: <span className="topScore">{props.topScore}</span>
                 </div>
             </nav>
         </div>

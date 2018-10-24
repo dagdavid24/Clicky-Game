@@ -3,7 +3,7 @@ import "./AnimeCard.css";
 
 const AnimeCard = (props) => {
     return (
-        <div className="card">
+        <div className="card" onClick={() => props.click(props.id)}>
             <img className="image" alt={props.breed} src={props.image} />
         </div>
     )
