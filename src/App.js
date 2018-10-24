@@ -33,6 +33,9 @@ class App extends Component {
         else {
           this.gameOver();
         }
+        if (this.state.score === 12) {
+          this.winGame();
+        }
       }
     });
   }
@@ -57,6 +60,10 @@ class App extends Component {
     this.shuffle();
   }
 
+  winGame = () => {
+    this.gameOver()
+      alert(`You win!`)
+  }
 
   render() {
 
@@ -90,4 +97,4 @@ class App extends Component {
 }
 
 
-  export default App;
+export default App;
